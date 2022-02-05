@@ -3,7 +3,7 @@ This is a compilation of smart contract projectes written in solidity taught by 
 Each folder contains the project for each lesson.
 The objective for this repository is to keep a history of my progress in learning Solidity and working with smart contracts.
 
-Sources:
+## Sources:
 Official Site:
   https://www.freecodecamp.org/
 URL to the course:
