@@ -1,7 +1,7 @@
 # Free Code Camp Tutorials
-This is a compilation of smart contract projectes written in solidity taught by Free Code Camp.
-Each folder contains the project for each lesson.
-The objective for this repository is to keep a history of my progress in learning Solidity and working with smart contracts.
+This is a compilation of smart contract projectes written in solidity taught by Free Code Camp.<br />
+Each folder contains the project for each lesson.<br />
+The objective for this repository is to keep a history of my progress in learning Solidity and working with smart contracts.<br />
 
 ## Sources:
 + Official Site:
